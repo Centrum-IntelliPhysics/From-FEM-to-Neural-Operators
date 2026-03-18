@@ -9,10 +9,8 @@ This repository accompanies the Spring School course:
 ### What You’ll Learn
 
 By working through this repository, you will:
-
-🧠 Understand the foundations of FEM and Scientific Machine Learning
-
-🔁 Learn mappings from discrete solvers → operator learning frameworks
+- 🧠 Understand the foundations of FEM and Scientific Machine Learning
+- 🔁 Learn mappings from discrete solvers → operator learning frameworks
 
 ⚡ Train Neural Operators for PDE surrogates
 
