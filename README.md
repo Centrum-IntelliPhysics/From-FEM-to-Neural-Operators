@@ -20,10 +20,8 @@ The philosophy is simple: Use FEM to understand physics - use Neural Operators t
 ### Why This Matters
 Scientific Machine Learning is not replacing FEM — it is augmenting it.
 This repository reflects a key paradigm:
-
-FEM → robust, physics-grounded, but computationally expensive
-
-Neural Operators → fast, generalizable, data-driven
+- FEM → robust, physics-grounded, but computationally expensive
+- Neural Operators → fast, generalizable, data-driven
 
 The future lies in hybrid solvers that combine both.
 
