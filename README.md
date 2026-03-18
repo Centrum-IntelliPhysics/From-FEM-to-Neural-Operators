@@ -11,12 +11,9 @@ This repository accompanies the Spring School course:
 By working through this repository, you will:
 - 🧠 Understand the foundations of FEM and Scientific Machine Learning
 - 🔁 Learn mappings from discrete solvers → operator learning frameworks
-
-⚡ Train Neural Operators for PDE surrogates
-
-⚖️ Benchmark FEM vs ML-based solvers (accuracy, speed, generalization)
-
-🧩 Build intuition for when to use what
+- ⚡ Train Neural Operators for PDE surrogates
+- ⚖️ Benchmark FEM vs ML-based solvers (accuracy, speed, generalization)
+- 🧩 Build intuition for when to use what
 
 The philosophy is simple: Use FEM to understand physics - use Neural Operators to scale it.
 
