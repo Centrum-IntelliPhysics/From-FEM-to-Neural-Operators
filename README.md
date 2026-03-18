@@ -21,8 +21,14 @@ The philosophy is simple: Use FEM to understand physics - use Neural Operators t
 Scientific Machine Learning is not replacing FEM — it is augmenting it.
 This repository reflects a key paradigm:
 - FEM → robust, physics-grounded, but computationally expensive
-- Neural Operators → fast, generalizable, data-driven
+- PINNs and Neural Operators → fast, generalizable, data-driven
 
 The future lies in hybrid solvers that combine both.
 
+### Lecturers
+- [Dr.-Ing Jorge Alberto Lopez Zermeno](https://scholar.google.com/citations?hl=en&user=0H_aTlMAAAAJ)
+- [Dr.-Ing Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en&oi=ao)
+- [Mr. Rohan Raj Das](https://scholar.google.com/citations?hl=en&user=Ebtm5WMAAAAJ)
+
+### Our AI Teaching Assistant, developed by Mr. [Dibakar Roy Sarkar](https://scholar.google.com/citations?hl=en&user=Sz4nHdYAAAAJ), is available [here](https://femtonorag.streamlit.app).
 
