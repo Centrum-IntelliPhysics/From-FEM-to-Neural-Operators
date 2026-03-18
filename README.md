@@ -20,5 +20,16 @@ By working through this repository, you will:
 
 🧩 Build intuition for when to use what
 
-The philosophy is simple: Use FEM to understand physics — use Neural Operators to scale it.
+The philosophy is simple: Use FEM to understand physics - use Neural Operators to scale it.
+
+### Why This Matters
+Scientific Machine Learning is not replacing FEM — it is augmenting it.
+This repository reflects a key paradigm:
+
+FEM → robust, physics-grounded, but computationally expensive
+
+Neural Operators → fast, generalizable, data-driven
+
+The future lies in hybrid solvers that combine both.
+
 
