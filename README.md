@@ -1,4 +1,4 @@
-# From FEM to Neural Operators
+## From FEM to Neural Operators
 Drawing a parallel between learning a Differential Equation using Finite Element Method, PINNs, and Neural Operators
 
 
